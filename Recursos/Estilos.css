@@ -1,0 +1,41 @@
+p{
+	font-size: 120%;
+	text-align: justify;
+	
+}
+h1{
+	margin-bottom: 20px;
+}
+
+h4{
+	font-size: 125%;
+	text-decoration: underline;
+	
+}
+
+table{
+	background-color: yellow;
+
+}
+li{
+	float: left;
+	display: inline;
+}
+ul{
+	list-style: none;
+	margin:0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 12px 14px;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: white;
+	color: black;
+}
